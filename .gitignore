@@ -1,0 +1,8 @@
+ # Files
+/apikey.txt
+
+# Folders
+excel-workbooks/
+.ipynb_checkpoints/
+
+
